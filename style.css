@@ -2,6 +2,26 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.btn-dark:hover {
+    box-shadow: 0px 0px 0px 5px white inset;
+}
+
+.btn-warning:hover {
+    box-shadow: 0px 0px 0px 5px rgb(247, 119, 0) inset;
+}
+
+.btn-light:hover {
+    box-shadow: 0px 0px 0px 5px blue inset;
+}
+
+.btn-danger:hover {
+    box-shadow: 0px 0px 0px 5px rgb(238, 143, 143) inset;
+}
+
+.btn-primary:hover {
+    box-shadow: 0px 0px 0px 5px rgb(115, 209, 252) inset;
+}
+
 .widthper {
     width: 70% !important;
 }
