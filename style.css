@@ -2,6 +2,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.widthper {
+    width: 70% !important;
+}
+
+.w100 {
+    width: 100%;
+}
+
 .list li {
     padding: 5px 0;
 }
@@ -9,6 +17,10 @@ body {
 .fill {
     width: 150px;
 
+}
+
+.effetto-box:hover {
+    box-shadow: 0px 10px 10px 0px #b7b7b7;
 }
 
 .-mimportant {
