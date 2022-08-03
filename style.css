@@ -2,6 +2,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.list li {
+    padding: 5px 0;
+}
+
+.fill {
+    width: 150px;
+
+}
+
 .-mimportant {
     margin-right: 0 !important
 }
@@ -12,6 +21,10 @@ body {
 
 .-logosony {
     width: 100px;
+}
+
+.-logoglobal {
+    width: 20px;
 }
 
 .-logops {
