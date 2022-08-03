@@ -82,7 +82,3 @@ body {
 .-hover:hover {
     border-bottom: 2px solid rgb(47, 156, 219);
 }
-
-.widthmax {
-    max-width: 580px;
-}
